@@ -8,6 +8,19 @@
 
 ### 示例 iOS Scheme
 
+## URL Scheme 示例
+
+| 应用名称      | Scheme                                   | 描述                               | 复制按钮 |
+| ------------ | ---------------------------------------- | ---------------------------------- | ------- | 
+| 支付宝       | `alipays://`                             | 打开支付宝应用。                    | [复制](javascript:void(0);) |
+| 支付宝收款功能 | `alipays://platformapi/startapp?appId=20000123` | 打开支付宝应用的收款功能。  | [复制](javascript:void(0);) |
+| 支付宝扫一扫功能 | `alipays://platformapi/startapp?saId=10000007` | 打开支付宝应用的扫一扫功能。 | [复制](javascript:void(0);) |
+| 支付宝手机充值功能 | `alipay://platformapi/startapp?saId=10000003` | 打开支付宝应用的手机充值功能。 | [复制](javascript:void(0);) |
+
+<details>
+  <summary>复制按钮示例代码</summary>
+  <pre><code>[复制](javascript:void(0);)</code></pre>
+</details>
 
 
 
