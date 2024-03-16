@@ -23,6 +23,15 @@
 | 支付宝       | `alipay://platformapi/startapp?saId=10000003` | `alipay://platformapi/startapp?saId=10000003` | 打开支付宝应用的手机充值功能。 |
 
 
+
+| 应用名称      | Scheme                                   | 使用示例                                | 描述                               |
+| ------------ | ---------------------------------------- | --------------------------------------- | ---------------------------------- |
+| 支付宝       | `alipays://`                             | [跳转](alipays://)                     | 打开支付宝应用。                    |
+| 支付宝       | `alipays://platformapi/startapp?appId=20000123` | [跳转](alipays://platformapi/startapp?appId=20000123) | 打开支付宝应用的收款功能。  |
+| 支付宝       | `alipays://platformapi/startapp?saId=10000007` | [跳转](alipays://platformapi/startapp?saId=10000007) | 打开支付宝应用的扫一扫功能。 |
+| 支付宝       | `alipay://platformapi/startapp?saId=10000003` | [跳转](alipay://platformapi/startapp?saId=10000003) | 打开支付宝应用的手机充值功能。 |
+
+
 ## 主要特点
 
 - **包含各种 iOS 应用的 URL Scheme 清单**：覆盖常见应用及其功能。
