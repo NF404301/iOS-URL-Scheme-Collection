@@ -31,7 +31,7 @@
 | 支付宝       | `alipays://platformapi/startapp?saId=10000007` | [跳转](alipays://platformapi/startapp?saId=10000007) | 打开支付宝应用的扫一扫功能。 |
 | 支付宝       | `alipay://platformapi/startapp?saId=10000003` | [跳转](alipay://platformapi/startapp?saId=10000003) | 打开支付宝应用的手机充值功能。 |
 
-https://www.ydzms.com/archives/58/
+
 [访问此链接](https://www.ydzms.com/archives/58/)
 
 
