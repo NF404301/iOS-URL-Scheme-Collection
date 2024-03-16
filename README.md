@@ -8,11 +8,7 @@
 
 ### 示例 iOS Scheme
 
-| 应用名称    | Scheme         | 使用示例                         | 描述                               |
-| ---------- | -------------- | -------------------------------- | ---------------------------------- |
-| Facebook   | `fb://`         | `fb://profile`                  | 用于打开 Facebook 应用的个人资料页面。  |
-| Instagram  | `instagram://` | `instagram://user?username=example` | 用于打开 Instagram 应用的用户页面。     | 
-| Twitter    | `twitter://`   | `twitter://user?screen_name=example` | 用于打开 Twitter 应用的用户页面。       |
+
 
 
 | 应用名称      | Scheme                                   | 使用示例                                | 描述                               |
@@ -23,6 +19,8 @@
 | 支付宝       | `alipay://platformapi/startapp?saId=10000003` | `alipay://platformapi/startapp?saId=10000003` | 打开支付宝应用的手机充值功能。 |
 
 [访问此链接](https://www.ydzms.com/archives/58/)
+[点击跳转到微信](weixin://)
+
 
 
 | 应用名称      | Scheme                                   | 使用示例                                | 描述                               |
