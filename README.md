@@ -1,3 +1,36 @@
-# iOS-URL-Scheme-Collection
-欢迎来到 iOS URL Scheme 收集！本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。  
+# iOS URL Scheme Collection
+
+欢迎来到 iOS URL Scheme 收集！本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。
+
+## 仓库内容
+
 在这里，你将找到各种 iOS 应用程序的 URL Scheme 列表，以及详细的文档、示例代码和使用说明。无论是自定义应用间跳转、深度链接，还是其他与 URL Scheme 相关的用例，我们都努力收集并整理了丰富的资源，以满足你的需求。
+
+### 示例 iOS Scheme
+
+| 应用名称    | Scheme         | 使用示例                         | 描述                               |
+| ---------- | -------------- | -------------------------------- | ---------------------------------- |
+| Facebook   | `fb://`         | `fb://profile`                  | 用于打开 Facebook 应用的个人资料页面。  |
+| Instagram  | `instagram://` | `instagram://user?username=example` | 用于打开 Instagram 应用的用户页面。     |
+| Twitter    | `twitter://`   | `twitter://user?screen_name=example` | 用于打开 Twitter 应用的用户页面。       |
+
+## 主要特点
+
+- **包含各种 iOS 应用的 URL Scheme 清单**：覆盖常见应用及其功能。
+- **提供详细的文档和示例代码**：帮助开发人员快速集成和使用 URL Scheme。
+- **持续更新**：跟踪最新的应用程序版本和 URL Scheme 变化，确保信息的及时性和准确性。
+
+## 如何贡献
+
+无论你是 iOS 开发新手还是经验丰富的开发者，这个仓库都将成为你在构建 iOS 应用时不可或缺的资源之一。欢迎贡献你的知识和经验，让我们一起共建这个开放的 iOS URL Scheme 社区！
+
+如果你想贡献内容，请按照以下步骤操作：
+
+1. **Fork** 本仓库并克隆到本地环境。
+2. 在本地进行修改或添加新的 URL Scheme 信息。
+3. 提交一个 Pull Request，描述你的更改或添加的内容。
+
+## 许可证
+
+本仓库使用 [MIT 许可证](LICENSE)。详细信息请参阅 [LICENSE](LICENSE) 文件。
+
