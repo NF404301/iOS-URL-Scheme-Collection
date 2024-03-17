@@ -15,7 +15,7 @@
 
       weixin:// 
 
-  **[微信扫一扫](https://nf404301.github.io/URL-Scheme-redirect/redirect.html?scheme=weixin://scan)** 
+  **[微信扫一扫](https://nf404301.github.io/URL-Scheme-redirect/redirect.html?scheme=scan)**  
 
       weixin://scanqrcode
 
