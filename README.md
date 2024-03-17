@@ -22,6 +22,23 @@
 
 </details>
 
+<details>
+  <summary>微信</summary>
+  
+  #### 打开微信
+
+  <a href="weixin://">打开微信</a>
+
+  #### 微信扫码
+
+  <a href="weixin://scanqrcode">微信扫码</a>
+
+  #### 微信什么值得买签到
+
+  <a href="weixin://dl/business/?t=EzghHNrd8sg">微信什么值得买签到</a>
+
+</details>
+
 
 
 ## 支付类
