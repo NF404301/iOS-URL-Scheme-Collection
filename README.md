@@ -9,11 +9,11 @@
   **[App Store下载](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124)** 
 
   
-  **[打开微信](https://nf404301.github.io/URL-Scheme-redirect/redirect.html?scheme=wechat)**
+  **[打开微信](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=wechat)** 
 
       weixin:// 
 
-  **[微信扫一扫](https://nf404301.github.io/URL-Scheme-redirect/redirect.html?scheme=scan)**  
+  **[微信扫一扫](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=scan)**   
 
       weixin://scanqrcode
 
