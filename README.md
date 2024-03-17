@@ -3,8 +3,8 @@
 欢迎来到 iOS URL Scheme 收集！本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。
 
 ## 社交
-<details>
-  <summary>微信</summary>
+<details> 
+  <summary>微信</summary> 
   
   **[App Store下载](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124)**  
 
