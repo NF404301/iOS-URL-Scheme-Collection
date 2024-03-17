@@ -1,4 +1,4 @@
-# iOS URL Scheme Collection 
+# iOS URL Scheme Collection  
 
 欢迎来到 iOS URL Scheme 收集！本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。
 
@@ -12,7 +12,7 @@
 
       weixin://
 
-  #### 微信扫码
+  #### [微信扫码](https://nf404301.github.io/URL-Scheme-redirect/redirect.html?scheme=weixin://scan)
 
       weixin://scanqrcode
 
