@@ -20,31 +20,32 @@
 
 </details>
 
-
-
-
-
-## 支付类
+## 生活
 <details>
-  <summary>支付宝</summary> 
+  <summary>支付宝</summary>
   
-  ##### 支付宝
-
+  **[打开支付宝](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=alipay)**  
+  
       alipays://
 
-  ##### 支付宝收款功能
+  **[支付宝收款功能](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=alipay_collect)**
 
       alipays://platformapi/startapp?appId=20000123
 
-  ##### 支付宝扫一扫功能
+  **[支付宝扫一扫功能](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=alipay_scan)**  
 
       alipays://platformapi/startapp?saId=10000007
 
-  ##### 支付宝手机充值功能
+  **[支付宝手机充值功能](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=alipay_recharge)** 
 
-      alipay://platformapi/startapp?saId=10000003
+      alipays://platformapi/startapp?saId=10000003
 
 </details>
+
+
+
+
+
 
 
 ## 参考来源
