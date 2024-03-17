@@ -50,7 +50,5 @@
 ## 参考来源
 * [云端筑梦室](https://www.ydzms.com/archives/58/)
 
-## 许可证
 
-本仓库使用 [MIT 许可证](LICENSE)。详细信息请参阅 [LICENSE](LICENSE) 文件。
 
