@@ -15,16 +15,34 @@
         window.onload = function() {
             var scheme = getQueryParam("scheme");
             switch(scheme) {
-                case "wechat":
-                    window.location.href = 'weixin://';
+                // 微信
+                case "wechat": 
+                    window.location.href = 'weixin://'; 
                     break;
                 case "scan":
-                    window.location.href = 'weixin://scanqrcode';
+                    window.location.href = 'weixin://scanqrcode'; 
                     break;
                 case "signup":
-                    window.location.href = 'weixin://dl/business/?t=EzghHNrd8sg';
+                    window.location.href = 'weixin://dl/business/?t=EzghHNrd8sg'; 
                     break;
-                // 可以根据需要添加更多case
+                // 支付宝
+                // 如果scheme参数是"alipay"，则重定向到支付宝主页
+                case "alipay":
+                    window.location.href = 'alipays://';
+                    break;
+                // 如果scheme参数是"alipay_collect"，则重定向到支付宝的收款功能
+                case "alipay_collect":
+                    window.location.href = 'alipays://platformapi/startapp?appId=20000123';
+                    break;
+                // 如果scheme参数是"alipay_scan"，则重定向到支付宝的扫一扫功能
+                case "alipay_scan":
+                    window.location.href = 'alipays://platformapi/startapp?saId=10000007';
+                    break;
+                // 如果scheme参数是"alipay_recharge"，则重定向到支付宝的手机充值功能
+                case "alipay_recharge": 
+                    window.location.href = 'alipays://platformapi/startapp?saId=10000003';
+                    break;
+
                 default:
                     window.location.href = '/'; // 无效参数时重定向到首页或其他页面
                     break;
