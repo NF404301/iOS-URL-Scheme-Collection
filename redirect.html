@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        // 解析URL参数的函数
+        function getQueryParam(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+
+        // 页面加载完成后，根据URL参数重定向
+        window.onload = function() {
+            var scheme = getQueryParam("scheme");
+            switch(scheme) {
+                case "wechat":
+                    window.location.href = 'weixin://';
+                    break;
+                case "scan":
+                    window.location.href = 'weixin://scanqrcode';
+                    break;
+                case "signup":
+                    window.location.href = 'weixin://dl/business/?t=EzghHNrd8sg';
+                    break;
+                // 可以根据需要添加更多case
+                default:
+                    window.location.href = '/'; // 无效参数时重定向到首页或其他页面
+                    break;
+            }
+        }
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, <a href="javascript:void(0)" onclick="window.onload()">click here</a>.</p>
+</body>
+</html>
