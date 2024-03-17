@@ -1,6 +1,17 @@
-# iOS URL Scheme Collection    
+ <div align="center">
+ 
+# iOS URL Scheme Collection 
 
-欢迎来到 iOS URL Scheme 收集！本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。
+</div>
+
+![iOS URL Scheme Collection](https://assets.xmind.net/uploads/old-assets/img/URL%20Scheme%20Definition.png) 
+ <div align="center">
+**欢迎来到 iOS URL Scheme 收集！**
+</div>
+ <div align="center">
+本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。
+</div>
+
 
 ## 社交
 <details>
