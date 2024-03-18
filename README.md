@@ -8,7 +8,7 @@
  <div align="center">
 **欢迎来到 iOS URL Scheme 收集！**
 </div>
- <div align="center">
+ <div align="center"> 
 本仓库旨在为开发人员提供一个完整的 iOS URL Scheme 资源汇总，帮助他们更轻松地了解和利用 iOS 应用之间的互操作性。
 </div>
 
@@ -64,6 +64,7 @@
 
 ## 参考来源
 * [云端筑梦室](https://www.ydzms.com/archives/58/)
+* [含参数的 URL Scheme 收集](https://gist.github.com/JamesHopbourn/046bc341e7debfd0c86e3b388d983c53 )
 
 
 
