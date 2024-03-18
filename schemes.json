@@ -1,0 +1,11 @@
+{
+  "schemes": {
+    "wechat": "weixin://",
+    "scan": "weixin://scanqrcode",
+    "signup": "weixin://dl/business/?t=EzghHNrd8sg",
+    "alipay": "alipays://",
+    "alipay_collect": "alipays://platformapi/startapp?appId=20000123",
+    "alipay_scan": "alipays://platformapi/startapp?saId=10000007",
+    "alipay_recharge": "alipays://platformapi/startapp?saId=10000003"
+  }
+}
