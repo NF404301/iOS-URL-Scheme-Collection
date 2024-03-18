@@ -16,8 +16,8 @@
             var scheme = getQueryParam("scheme");
             switch(scheme) {
                 // 微信
-                case "wechat": 
-                    window.location.href = 'weixin://'; 
+                case "wechat":  
+                    window.location.href = 'weixin://';  
                     break;
                 case "scan":
                     window.location.href = 'weixin://scanqrcode'; 
@@ -25,6 +25,16 @@
                 case "signup":
                     window.location.href = 'weixin://dl/business/?t=EzghHNrd8sg'; 
                     break;
+                // 微博 
+                // 新浪微博发送微博
+                case "sinaweibo_send": 
+                    window.location.href = 'sinaweibo://sendweibo?show_keyboard=1';
+                    break;
+                // 新浪微博发送特定内容的微博
+                case "sinaweibo_send_specific":
+                    window.location.href = 'sinaweibo://sendweibo?show_keyboard=1&content=[[draft]]';
+                    break;
+
                 // 支付宝
                 // 如果scheme参数是"alipay"，则重定向到支付宝主页
                 case "alipay":
