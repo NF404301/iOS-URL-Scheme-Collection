@@ -4,7 +4,7 @@
 
 </div>
 
-![iOS URL Scheme Collection](https://assets.xmind.net/uploads/old-assets/img/URL%20Scheme%20Definition.png) 
+![iOS URL Scheme Collection](https://assets.xmind.net/uploads/old-assets/img/URL%20Scheme%20Definition.png)  
  <div align="center">
 **欢迎来到 iOS URL Scheme 收集！**
 </div>
@@ -15,7 +15,7 @@
 
 ## 社交
 <details>
-  <summary>微信</summary>
+  <summary>微信</summary> 
 
 
 >微信是一款全方位的手机通讯应用，帮助你轻松连接全球好友。微信可以群聊、进行视频聊天、与好友一起玩游戏，以及分享自己的生活到朋友圈，让你感受耳目一新的移动生活方式。 **[App Store下载](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124)**   
@@ -27,6 +27,22 @@
   **[微信扫一扫](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=scan)**   
 
       weixin://scanqrcode
+
+</details>
+
+<details>
+  <summary>微博</summary>  
+
+
+>在微博，随时随地，发现新鲜事；在微博，每天有数以亿计的网友在围观、分享和互动；在微博，时政要闻、文娱热点、热门事件一手掌握；在微博，海量视频，等你来刷；专业达人、游戏动漫、美食时尚、情感搞笑、娱乐综艺、影视、体育、VLOG、知识应有尽有；不忘初心，助力公益。以微博之力，让世界更美。 **[App Store下载](https://apps.apple.com/cn/app/%E5%BE%AE%E5%8D%9A/id350962117)**   
+  
+**[发微博](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=sinaweibo_send)**  
+
+    sinaweibo://sendweibo?show_keyboard=1
+
+**[发特定内容的微博](https://nf404301.github.io/iOS-URL-Scheme-Collection/redirect.html?scheme=sinaweibo_send_specific)**  
+
+    sinaweibo://sendweibo?show_keyboard=1&content=[[draft]]
 
 
 </details>
